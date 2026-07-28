@@ -58,11 +58,6 @@ decoy_documents/
 │── templates/
 │── main.py
 ```
-
----
-
-
-
 ---
 
 ## Future Enhancements
